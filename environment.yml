@@ -1,0 +1,15 @@
+name: bookpurnong
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dask
+  - dask-jobqueue
+  - h5py
+  - ipywidgets
+  - matplotlib
+  - mkl
+  - numpy
+  - scipy
+  - SimPEG
